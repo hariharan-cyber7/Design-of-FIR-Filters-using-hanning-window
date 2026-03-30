@@ -1,4 +1,4 @@
-0## 4 C Design of FIR Filters using Hanning Window
+## 4 C Design of FIR Filters using Hanning Window
 
 
 ### AIM:        
